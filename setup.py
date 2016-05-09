@@ -11,4 +11,5 @@ setup(
     license="MIT",
     keywords="django audit_model auditing_model model_auditing model_audit",
     url="https://github.com/consultIntrick/django_audit_model",
+    download_url = 'https://github.com/consultIntrick/django_audit_model/tarball/0.1',
 )
